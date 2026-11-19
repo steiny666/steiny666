@@ -18,12 +18,12 @@
 </p>
 
 ## PC Specs:
-CPU: AMD Ryzen 5 5600G
-GPU: NVIDIA RTX 4060
-RAM: 32GB
-Distro/OS: CachyOS
-WM: Hyprland (fuck the dev)
-Quickshell: Caelestia Shell
+- CPU: AMD Ryzen 5 5600G
+- GPU: NVIDIA RTX 4060
+- RAM: 32GB
+- Distro/OS: CachyOS
+- WM: Hyprland (fuck the dev)
+- Quickshell: Caelestia Shell
 
 ## My Socials
 <p align="center">
